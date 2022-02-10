@@ -1,4 +1,4 @@
-## katas_python
+## Katas Python
 
 Gracias Fernanda por tu valioso apoyo, me considero un buen linux admin con un cero bien redondo en programacion. Pero hiciste que le tome gusto al codigo.
 Anexo en este repo las katas, esperando pasar al siguiente nivel.
